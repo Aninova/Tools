@@ -32,8 +32,8 @@ REM Various URLs/Paths
 set node_version=v6.10.3
 set install_dir=C:\Tools
 set sendto_path=%appdata%\Microsoft\Windows\SendTo
-set bin_url=https://bitbucket.org/Fremder/tools/raw/2e0695a6da1b9427836b6920ee87f0f531b763b5/bin
-set scripts_url=https://bitbucket.org/Fremder/tools/raw/2e0695a6da1b9427836b6920ee87f0f531b763b5/scripts
+set bin_url=https://bitbucket.org/Fremder/tools/raw/dc9a67813ed852baa86c9435ac2a3e3e243b011d/bin
+set scripts_url=https://bitbucket.org/Fremder/tools/raw/dc9a67813ed852baa86c9435ac2a3e3e243b011d/scripts
 set node_url=https://nodejs.org/dist/%node_version%/node-%node_version%-x64.msi
 
 
